@@ -22,57 +22,57 @@ Papers are filed in **four layers** — *capabilities* (what an agent can do), *
 > 📂 See [**TAXONOMY.md**](TAXONOMY.md) for the full directory map and the rules for where each paper is filed.
 
 - **Agent Capabilities** — what an agent can do: cognition, knowledge, action, and how it learns & improves
-  - *Core Cognition* — reason, plan, ideate, perceive (+5)
-    - [Reasoning](capabilities/core-cognition/reasoning.md) (+2)
+  - *Core Cognition* — reason, plan, ideate, perceive (+7)
+    - [Reasoning](capabilities/core-cognition/reasoning.md) (+3)
     - [Planning](capabilities/core-cognition/planning.md) (+1)
-    - [Ideation](capabilities/core-cognition/ideation.md) (+2)
+    - [Ideation](capabilities/core-cognition/ideation.md) (+3)
     - [Perception](capabilities/core-cognition/perception.md)
-  - *Knowledge & Context* — what the agent knows and carries between steps (+12) 🔥
-    - [Memory](capabilities/knowledge-context/memory.md) (+6)
-    - [Context Engineering](capabilities/knowledge-context/context-engineering.md) (+4)
-    - [Knowledge Graphs & Ontology](capabilities/knowledge-context/knowledge-graph.md) (+2)
-  - *Action* — acting through tools and reusable skills (+13) 🔥
+  - *Knowledge & Context* — what the agent knows and carries between steps (+17) 🔥
+    - [Memory](capabilities/knowledge-context/memory.md) (+8)
+    - [Context Engineering](capabilities/knowledge-context/context-engineering.md) (+5)
+    - [Knowledge Graphs & Ontology](capabilities/knowledge-context/knowledge-graph.md) (+4)
+  - *Action* — acting through tools and reusable skills (+18) 🔥
     - [Tool Use](capabilities/action/tool-use.md) (+2)
-    - [Skills](capabilities/action/skills.md) (+11) 🔥
-  - *Adaptation & Self-Improvement* — getting better from experience (+33) 🔥
-    - [Exploration & Discovery](capabilities/adaptation/exploration.md) (+2)
-    - [Experience & Trajectory Learning](capabilities/adaptation/experience.md) (+3)
-    - [Failure Attribution & Error Localization](capabilities/adaptation/failure-attribution.md) (+8)
+    - [Skills](capabilities/action/skills.md) (+16) 🔥
+  - *Adaptation & Self-Improvement* — getting better from experience (+53) 🔥
+    - [Exploration & Discovery](capabilities/adaptation/exploration.md) (+3)
+    - [Experience & Trajectory Learning](capabilities/adaptation/experience.md) (+4)
+    - [Failure Attribution & Error Localization](capabilities/adaptation/failure-attribution.md) (+12) 🔥
     - [Self-Correction](capabilities/adaptation/self-correction.md) (+2)
-    - [Verification](capabilities/adaptation/verification.md)
-    - [Self-Evolution](capabilities/adaptation/self-evolution.md/#self-evolution-self-improvement) (+13) 🔥
-    - [Agent Tuning](capabilities/adaptation/learning.md) (+5)
-  - *Trust & Measurement* — is it safe, and how well does it work? (+21) 🔥
-    - [Safety](capabilities/trust/safety.md) (+7)
-    - [Agent Evaluation](capabilities/trust/evaluation.md) (+14) 🔥
-  - *Other* — world models, user profiles, forecasting (+3)
-    - [Environment (World Models & Simulations)](capabilities/other/environment.md) (+1)
-    - [Profile](capabilities/other/profile.md) (+1)
+    - [Verification](capabilities/adaptation/verification.md) (+1)
+    - [Self-Evolution](capabilities/adaptation/self-evolution.md/#self-evolution-self-improvement) (+20) 🔥
+    - [Agent Tuning](capabilities/adaptation/learning.md) (+11) 🔥
+  - *Trust & Measurement* — is it safe, and how well does it work? (+33) 🔥
+    - [Safety](capabilities/trust/safety.md) (+12) 🔥
+    - [Agent Evaluation](capabilities/trust/evaluation.md) (+21) 🔥
+  - *Other* — world models, user profiles, forecasting (+9)
+    - [Environment (World Models & Simulations)](capabilities/other/environment.md) (+6)
+    - [Profile](capabilities/other/profile.md) (+2)
     - [Prediction](capabilities/other/prediction.md) (+1)
-- **AI Agents Architecture** — how an agent is built: single-agent design, multi-agent systems, and the runtime harness (+26) 🔥
+- **AI Agents Architecture** — how an agent is built: single-agent design, multi-agent systems, and the runtime harness (+36) 🔥
   - [Agent Design & Frameworks](architecture/agent-design.md) (+1)
-  - [Multi-Agent Systems](architecture/multi-agent.md) (+4)
-  - [Harness](architecture/harness.md) (+21) 🔥
-- **Operations & Interaction** — how an agent is run and works with people: observability, UX, and governance (+6)
-  - [AgentOps & Observability](operations/agentops.md)
-  - [Human-AI Interaction & UX](operations/human-ai.md)
-  - [Governance & Governed Self-Improvement](operations/governance.md) (+6)
+  - [Multi-Agent Systems](architecture/multi-agent.md) (+6)
+  - [Harness](architecture/harness.md) (+29) 🔥
+- **Operations & Interaction** — how an agent is run and works with people: observability, UX, and governance (+16) 🔥
+  - [AgentOps & Observability](operations/agentops.md) (+4)
+  - [Human-AI Interaction & UX](operations/human-ai.md) (+2)
+  - [Governance & Governed Self-Improvement](operations/governance.md) (+10) 🔥
 - **AI Agents Applications** — where agents are deployed, grouped by interface, domain, and task pattern
-  - *By Embodiment / Interface* — where the agent acts
+  - *By Embodiment / Interface* — where the agent acts (+1)
     - [Embodied Agents](applications/interface/embodied-agents.md)
-    - [Computer-Use (GUI) Agents](applications/interface/computer-use-agents.md)
+    - [Computer-Use (GUI) Agents](applications/interface/computer-use-agents.md) (+1)
     - [Web Agents](applications/interface/web-agents.md)
     - [Mobile Agents](applications/interface/mobile-agents.md)
-  - *By Domain / Vertical* — the industry it serves (+24) 🔥
-    - [Financial Agents](applications/domain/finance-agents.md) (+4)
-    - [Enterprise Agents](applications/domain/enterprise-agents.md) (+8)
-    - [AI Scientist (Research Automation)](applications/domain/ai-scientist.md) (+7)
-    - [Vertical / Domain Agents](applications/domain/vertical-agents.md) (+5)
-  - *By System Pattern / Task Form* — the shape of the task or system (+15) 🔥
-    - [Coding Agents](applications/system/coding-agents.md) (+3)
-    - [Data Agents](applications/system/data-agents.md) (+3)
+  - *By Domain / Vertical* — the industry it serves (+34) 🔥
+    - [Financial Agents](applications/domain/finance-agents.md) (+6)
+    - [Enterprise Agents](applications/domain/enterprise-agents.md) (+9)
+    - [AI Scientist (Research Automation)](applications/domain/ai-scientist.md) (+11) 🔥
+    - [Vertical / Domain Agents](applications/domain/vertical-agents.md) (+8)
+  - *By System Pattern / Task Form* — the shape of the task or system (+21) 🔥
+    - [Coding Agents](applications/system/coding-agents.md) (+5)
+    - [Data Agents](applications/system/data-agents.md) (+5)
     - [Deep Research Agents](applications/system/deep-research-agents.md) (+5)
-    - [World Simulation](applications/system/world-simulation.md) (+4)
+    - [World Simulation](applications/system/world-simulation.md) (+6)
 - **GenAI Agents Presentations**
   - [Tutorial & Lecture](lectures/tutorial-lecture.md)
 

@@ -83,6 +83,10 @@
 * [Jun 2026] **"EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery"** [[paper](https://arxiv.org/abs/2606.13662)]
 * [Jul 2026] **"Can AI Agents Conduct Open-Ended AI Research? Early Evidence from Two Case Studies"** [[paper](https://arxiv.org/abs/2607.27191)]
 * [Aug 2026] **"Training AI Scientists to Replicate Research"** [[paper](https://arxiv.org/abs/2608.13331)]
+* [Aug 2026] **"ScienceFlow: A Long-horizon Agent for ML Research, Scientific Discovery and Beyond"** [[paper](https://arxiv.org/abs/2608.14354)]
+* ⚖️ [Aug 2026] **"How Do Agents Fail on AutoResearch: End-to-End Diagnostic Evaluation on 100 Real-World Frontier Research Tasks"** [[paper](https://arxiv.org/abs/2608.14905)]
+* [Aug 2026] **"When AI Designs AI: Innovation or Imitation?"** [[paper](https://arxiv.org/abs/2608.17471)]
+* [Aug 2026] **"What is Missing from AI Post-Training AI: An Empirical Analysis"** [[paper](https://arxiv.org/abs/2608.19072)]
 
 ### Paper Writing & Peer Review
 * [Jan 2024] **"LLaMP: Large Language Model Made Powerful for High-Fidelity Materials Knowledge Retrieval and Distillation"** [[paper](https://arxiv.org/abs/2401.17244)]

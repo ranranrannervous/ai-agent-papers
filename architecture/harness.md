@@ -24,6 +24,9 @@ The agent harness — the runtime scaffold (loop, tool interfaces, context manag
 * [Jul 2026] **"MemoHarness: Agent Harnesses That Learn from Experience"** [[paper](https://arxiv.org/abs/2607.14159)]
 * [Jul 2026] **"Model or Harness? An Interaction-Centric Taxonomy for Localizing Agent Failures"** [[paper](https://arxiv.org/abs/2607.28802)]
 * [Aug 2026] **"SHE: Trajectory-driven Safety Harness Evolution for LLM Agents"** [[paper](https://arxiv.org/abs/2608.09885)]
+* [Aug 2026] **"Second Thought: Reasoning in Parallel as LLM Agents Act and Observe"** [[paper](https://arxiv.org/abs/2608.13667)]
+* [Aug 2026] **"Agent Lightning v1.0: Towards Harnessed Agentic RL"** [[paper](https://arxiv.org/abs/2608.17528)]
+* [Aug 2026] **"EnvHarness: Awakening Static Worlds for Agent Learning"** [[paper](https://arxiv.org/abs/2608.19880)]
 
 
 ### Optimization & Evolution
@@ -48,6 +51,8 @@ The agent harness — the runtime scaffold (loop, tool interfaces, context manag
 * ⚖️ [Aug 2026] **"HarnessOpt-Bench: Evaluating LLMs at Harness Optimization"** [[paper](https://arxiv.org/abs/2608.06301)]
 * [Aug 2026] **"DarwinX: Evolving Agent Harnesses Through Natural Selection"** [[paper](https://arxiv.org/abs/2608.07545)]
 * [Aug 2026] **"AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design"** [[paper](https://arxiv.org/abs/2608.13560)]
+* [Aug 2026] **"Evo-Harness: Context-to-Harness Skill Compilation for Self-Evolving Agents"** [[paper](https://arxiv.org/abs/2608.15071)]
+* [Aug 2026] **"Task-CoEvolve: Efficient Harness Optimization via Adaptive Validation Task Selection"** [[paper](https://arxiv.org/abs/2608.20169)]
 
 ### Benchmarks & Auditing
 * ⚖️ [May 2026] **"Auditing Agent Harness Safety"** [[paper](https://arxiv.org/abs/2605.14271)]
@@ -55,6 +60,7 @@ The agent harness — the runtime scaffold (loop, tool interfaces, context manag
 * [Jul 2026] **"From Prompts to Contracts: Harness Engineering for Auditable Enterprise LLM Agents"** [[paper](https://arxiv.org/abs/2607.08028)]
 * ⚖️ [Jul 2026] **"DataClawEval: A Benchmark for Data Engineering Agents in Real Industrial Harness"** [[paper](https://arxiv.org/abs/2607.28033)]
 * ⚖️ [Aug 2026] **"EVO-BENCH: Can Language Models Improve Agent Harness?"** [[paper](https://arxiv.org/abs/2608.09096)]
+* [Aug 2026] **"Evaluating Agentic Learning Harness Capabilities Without Labels via the Scaling Hypothesis"** [[paper](https://arxiv.org/abs/2608.13608)]
 
 
 ### Test-Time / Runtime Adaptation
@@ -62,11 +68,13 @@ The agent harness — the runtime scaffold (loop, tool interfaces, context manag
 * [May 2026] **"Harnesses for Inference-Time Alignment over Execution Trajectories"** [[paper](https://arxiv.org/abs/2605.21516)]
 * [Jul 2026] **"TTHE: Test-Time Harness Evolution"** [[paper](https://arxiv.org/abs/2607.08124)]
 * [Jul 2026] **"Agent Harness Distillation: Inference-Time Harness Extraction and Exploitation in Autonomous Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2607.28147)]
+* [Aug 2026] **"Task-Aware Harness Provisioning for LLM Agents in Mission-Critical Infrastructure Operations"** [[paper](https://arxiv.org/abs/2608.17433)]
 
 ### Long-Horizon Execution
 * [May 2026] **"ReFlect: An Effective Harness System for Complex Long-Horizon LLM Reasoning"** [[paper](https://arxiv.org/abs/2605.05737)]
 * [Aug 2026] **"LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks"** [[paper](https://arxiv.org/abs/2608.01964)]
 * [Aug 2026] **"OneDayAgent: Towards a Long-Horizon Harness for Autonomous Agents"** [[paper](https://arxiv.org/abs/2608.05013)]
+* [Aug 2026] **"ScienceFlow: A Long-horizon Agent for ML Research, Scientific Discovery and Beyond"** [[paper](https://arxiv.org/abs/2608.14354)]
 
 ### Model-Agnostic / Cross-Model
 * [May 2026] **"Polar: Agentic RL on Any Harness at Scale"** [[paper](https://arxiv.org/abs/2605.24220)]

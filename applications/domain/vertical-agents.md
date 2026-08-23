@@ -156,6 +156,7 @@ Agents in various tasks such as education, healthcare, and the press.
 * [Jul 2026] **"Knowledge-Centric Agents for Workflow Generation in ComfyUI"** [[paper](https://arxiv.org/abs/2607.15845)]
 * [Jul 2026] **"Agents in the Wild: Where Research Meets Deployment"** [[paper](https://arxiv.org/abs/2607.19336)]
 * [Aug 2026] **"Tangent: An Empirical Study of Testing Practices for LLM-Based Agent Applications"** [[paper](https://arxiv.org/abs/2608.08413)]
+* [Aug 2026] **"PILOT Technical Report"** [[paper](https://arxiv.org/abs/2608.18637)]
 
 
 ### Healthcare & Medical
@@ -201,3 +202,5 @@ Agents in various tasks such as education, healthcare, and the press.
 * [Jul 2024] **"Revolutionizing Bridge Operation and Maintenance with LLM-based Agents: An Overview of Applications and Insights"** [[paper](https://arxiv.org/abs/2407.10064)]
 * [May 2026] **"Agentic AI and the Industrialization of Cyber Offense: Forecast, Consequences, and Defensive Priorities for Enterprises and the Mittelstand"** [[paper](https://arxiv.org/abs/2605.06713)]
 * [Jun 2024] **"A Large Language Model-based multi-agent manufacturing system for intelligent shopfloor"** [[paper](https://arxiv.org/abs/2405.16887)]
+* [Aug 2026] **"AISA: AI Safety Assistant Framework for Continuous Improvement of Highway Construction"** [[paper](https://arxiv.org/abs/2608.17184)]
+* [Aug 2026] **"Task-Aware Harness Provisioning for LLM Agents in Mission-Critical Infrastructure Operations"** [[paper](https://arxiv.org/abs/2608.17433)]

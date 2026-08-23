@@ -50,3 +50,7 @@ Operating agents in production: observability, deployment, evaluation-driven des
 * [Jun 2026] **"From Chatbot to Digital Colleague: The Paradigm Shift Toward Persistent Autonomous AI"** [[paper](https://arxiv.org/abs/2606.14502)]
 * [Jun 2026] **"Critique of Agent Model"** [[paper](https://arxiv.org/abs/2606.23991)]
 * [Jun 2026] **"Design and Implementation of Agentic Orchestrations and Orchestration of Agents"** [[paper](https://arxiv.org/abs/2606.31518)]
+* ⚖️ [Aug 2026] **"From LLM Inference to Agentic Workloads: Characterization and Implications for Serving Systems"** [[paper](https://arxiv.org/abs/2608.15127)]
+* [Aug 2026] **"Agent-Native Telemetry: Verifiable State-Delta Evidence for Autonomous Operations"** [[paper](https://arxiv.org/abs/2608.16178)]
+* [Aug 2026] **"Towards Risk-free AI Agent Deployment"** [[paper](https://arxiv.org/abs/2608.16411)]
+* [Aug 2026] **"LEDGER: Claim-to-Evidence Trace Graphs for Auditing LLM Agents"** [[paper](https://arxiv.org/abs/2608.18398)]

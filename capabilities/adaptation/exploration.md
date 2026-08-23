@@ -20,3 +20,4 @@ How agents **search and explore** large spaces of actions, states, or solutions 
 
 * [Aug 2026] **"Continuous Improvement and Parallel Autonomous Exploration: An LLM-Agent Framework for Searching Large Solution Spaces"** [[paper](https://arxiv.org/abs/2608.04341)]
 * [Aug 2026] **"SearchAuditor: Auditing and Attributing Failures in Long-Horizon Search Agents"** [[paper](https://arxiv.org/abs/2608.05212)]
+* [Aug 2026] **"Clearing the Fog: Towards Installing and Refining Proactive Exploration Capabilities in LLM Agents"** [[paper](https://arxiv.org/abs/2608.14339)]

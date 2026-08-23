@@ -43,6 +43,7 @@ Agent Skills — reusable, composable procedural capabilities (e.g. SKILL.md), s
 * [Aug 2026] **"SkillSmith: Enhancing Locally Deployed Agents via Automatic Skill Construction and Evolution"** [[paper](https://arxiv.org/abs/2608.08037)]
 * [Aug 2026] **"What Keeps Agent Skills from Being Reusable? Evidence from 138K SKILL.md Files"** [[paper](https://arxiv.org/abs/2608.08453)]
 * [Aug 2026] **"Agent Skills Can Be Harmful: An Empirical Study of Skill-Induced Failures in LLM Agents"** [[paper](https://arxiv.org/abs/2608.11888)]
+* [Aug 2026] **"@skills: Attention Is All You Have"** [[paper](https://arxiv.org/abs/2608.12610)]
 
 
 ### Skill Evolution & Lifelong
@@ -66,6 +67,8 @@ Agent Skills — reusable, composable procedural capabilities (e.g. SKILL.md), s
 * [Jun 2026] **"EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management"** [[paper](https://arxiv.org/abs/2606.03841)]
 * [Jul 2026] **"Who Grades the Grader? Co-Evolving Evaluation Metrics and Skills for Self-Improving LLM Agents"** [[paper](https://arxiv.org/abs/2607.12790)]
 * [Jul 2026] **"Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills"** [[paper](https://arxiv.org/abs/2607.22529)]
+* [Aug 2026] **"Practice Makes Unsafe: Skill Misevolution in Self-Improving LLM Agents"** [[paper](https://arxiv.org/abs/2608.12851)]
+* [Aug 2026] **"Evo-Harness: Context-to-Harness Skill Compilation for Self-Evolving Agents"** [[paper](https://arxiv.org/abs/2608.15071)]
 
 ### Benchmarks & Analysis
 * [Feb 2026] **"Agent Skills: A Data-Driven Analysis of Claude Skills for Extending Large Language Model Functionality"** [[paper](https://arxiv.org/abs/2602.08004)]
@@ -73,3 +76,5 @@ Agent Skills — reusable, composable procedural capabilities (e.g. SKILL.md), s
 * [Apr 2026] **"How Well Do Agentic Skills Work in the Wild: Benchmarking LLM Skill Usage in Realistic Settings"** [[paper](https://arxiv.org/abs/2604.04323)]
 * ⚖️ [May 2026] **"SkillGenBench: Benchmarking Skill Generation Pipelines for LLM Agents"** [[paper](https://arxiv.org/abs/2605.18693)]
 * [Jul 2026] **"SkillCorpus: Consolidating and Evaluating the Open Skill Ecosystem for Real-World LLM Agents"** [[paper](https://arxiv.org/abs/2607.15557)]
+* [Aug 2026] **"Demystifying Agent Skills: Why They Work—Until They Don’t"** [[paper](https://arxiv.org/abs/2608.14036)]
+* [Aug 2026] **"Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents"** [[paper](https://arxiv.org/abs/2608.20274)]

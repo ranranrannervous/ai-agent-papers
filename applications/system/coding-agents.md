@@ -64,6 +64,8 @@
 * [Jul 2026] **"Beyond Generalist LLMs: Specialist Agentic Systems for Structured Code Workflow Execution"** [[paper](https://arxiv.org/abs/2607.14456)]
 
 * [Aug 2026] **"Mendel Gödel Machine: Recursive Self-Improving Coding Agents via Comparative Evolution"** [[paper](https://arxiv.org/abs/2608.07645)]
+* [Aug 2026] **"When Agents Coordinate: Measuring Coordination in Multi-Agent AI Coding"** [[paper](https://arxiv.org/abs/2608.16801)]
+* [Aug 2026] **"PRAXIS: Graph-Grounded Tacit Knowledge for Domain Code Generation"** [[paper](https://arxiv.org/abs/2608.19784)]
 * 📖 [Aug 2025] **"A Survey on Code Generation with LLM-based Agents"** [[paper](https://arxiv.org/html/2508.00083v1)]
 
 

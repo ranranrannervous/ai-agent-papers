@@ -69,3 +69,4 @@ Ideation is the process of generating or developing ideas, particularly creative
 
 * [Jul 2026] **"Measuring the Gap Between Human and LLM Research Ideas"** [[paper](https://arxiv.org/abs/2607.01233)]
 * [Jul 2026] **"IDEAgent: Agentic Quality-Diversity Search for Research Idea Generation"** [[paper](https://arxiv.org/abs/2607.22375)]
+* [Aug 2026] **"When AI Designs AI: Innovation or Imitation?"** [[paper](https://arxiv.org/abs/2608.17471)]

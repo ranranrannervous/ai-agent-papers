@@ -43,3 +43,4 @@ Agents designed for enterprise operations, document management, CRM, HR, and bus
 * [Jul 2026] **"From Naive RAG to Deep Agentic Retrieval: An Evolving Context Engineering Pipeline for Regulatory Compliance"** [[paper](https://arxiv.org/abs/2607.24791)]
 * [Jul 2026] **"Large-Scale ChatBot Validation Through Customer Digital Twin Simulations"** [[paper](https://arxiv.org/abs/2607.26060)]
 * [Aug 2026] **"Unaccountable Delegation, Fading Skills: Mapping the Risks of Workplace AI Agents"** [[paper](https://arxiv.org/abs/2608.08601)]
+* ⚖️ [Aug 2026] **"One Success Isn’t Reliability: Thinkingbox, a Sandbox and Benchmark for Agents in Stateful Business Workflows"** [[paper](https://arxiv.org/abs/2608.19741)]

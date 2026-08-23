@@ -44,3 +44,4 @@ These papers discuss profiles that define the roles of agents, including role-pl
 * ⚖️ [Jun 2026] **"ProfileFoundry: A Synthetic Person-Object Substrate for Privacy, Memory, and Tool-Use Evaluation in LLM Agents"** [[paper](https://arxiv.org/abs/2606.26400)]
 
 * [Jul 2026] **"LLMs Get Lost in Evolving User Intent"** [[paper](https://arxiv.org/abs/2607.20734)]
+* [Aug 2026] **"QUMem: Personalized Memory for Query-Conditioned User-State Inference in LLM Agents"** [[paper](https://arxiv.org/abs/2608.16168)]

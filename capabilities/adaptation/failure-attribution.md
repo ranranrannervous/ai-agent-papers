@@ -11,3 +11,7 @@ Diagnosing *what / where / why* an agent failed: failure attribution, critical e
 * [Aug 2026] **"TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories"** [[paper](https://arxiv.org/abs/2608.06346)]
 * [Aug 2026] **"TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories"** [[paper](https://arxiv.org/abs/2608.06346)]
 * [Aug 2026] **"A2E: An End-to-End Agent Auditing Engine"** [[paper](https://arxiv.org/abs/2608.07346)]
+* ⚖️ [Aug 2026] **"How Do Agents Fail on AutoResearch: End-to-End Diagnostic Evaluation on 100 Real-World Frontier Research Tasks"** [[paper](https://arxiv.org/abs/2608.14905)]
+* [Aug 2026] **"Towards Risk-free AI Agent Deployment"** [[paper](https://arxiv.org/abs/2608.16411)]
+* [Aug 2026] **"LEDGER: Claim-to-Evidence Trace Graphs for Auditing LLM Agents"** [[paper](https://arxiv.org/abs/2608.18398)]
+* [Aug 2026] **"Credit Without Ground Truth: Auditing Step-Level Credit Assignment in LLM Agents Against Executed Replay"** [[paper](https://arxiv.org/abs/2608.19760)]

@@ -29,3 +29,4 @@ Agent execution experience / trajectories as a reusable learning resource: exper
 * 📖 [Jan 2026] **"From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms"** [[paper](https://www.preprints.org/manuscript/202601.0618)]
 * [Jun 2026] **"MetaEvo: A Meta-Optimization Framework for Experience-Driven Agent Evolution"** [[paper](https://openreview.net/forum?id=1YcMHVY9cl)]
 * 📖 [Jun 2026] **"Self-Improving Agents in the Era of Experience: A Survey of Self- to Meta-Evolution"**
+* [Aug 2026] **"Inducing Task Models from Computer-Use Traces"** [[paper](https://arxiv.org/abs/2608.20319)]

@@ -22,3 +22,7 @@ Controlled, permissioned change of autonomous agents: governed self-improvement,
 * [Jul 2026] **"Nobody Did This: Contribution, Originality, and Accountability in Agent-Mediated Collaboration"** [[paper](https://arxiv.org/abs/2607.26387)]
 * [Aug 2026] **"AI Governance for Institutional Readiness in Finance"** [[paper](https://arxiv.org/abs/2608.02311)]
 * [Aug 2026] **"Unaccountable Delegation, Fading Skills: Mapping the Risks of Workplace AI Agents"** [[paper](https://arxiv.org/abs/2608.08601)]
+* [Aug 2026] **"Insurance as AI Risk Infrastructure: A Generative-Agent Simulation of AI Adoption"** [[paper](https://arxiv.org/abs/2608.15181)]
+* [Aug 2026] **"Agent Gym: A Framework for Continuous Evaluation and Evolution of LLM Agents Through Human-in-the-Loop Feedback"** [[paper](https://arxiv.org/abs/2608.15591)]
+* [Aug 2026] **"PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-Compliant LLM Agents"** [[paper](https://arxiv.org/abs/2608.19861)]
+* ⚖️ [Aug 2026] **"ReguSim: Evaluating LLM Agent Rule Grounding in Financial Compliance"** [[paper](https://arxiv.org/abs/2608.19974)]

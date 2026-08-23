@@ -121,3 +121,5 @@
 * [Jul 2026] **"Baikal: Structured Search for Deep Research over Data Lakes"** [[paper](https://arxiv.org/abs/2607.27726)]
 * ⚖️ [Jul 2026] **"DataClawEval: A Benchmark for Data Engineering Agents in Real Industrial Harness"** [[paper](https://arxiv.org/abs/2607.28033)]
 * [Aug 2026] **"EDATracer: An Agentic Framework for Large-Scale EDA Artifact Analysis"** [[paper](https://arxiv.org/abs/2608.04032)]
+* ⚖️ [Aug 2026] **"Walk Before You Run: The Importance of Data Exploration for Data Analysis Agents"** [[paper](https://arxiv.org/abs/2608.16045)]
+* [Aug 2026] **"MUSE: An Interactive Meta-Agent for Understanding and Steering LLM-powered Data Science Systems"** [[paper](https://arxiv.org/abs/2608.16181)]

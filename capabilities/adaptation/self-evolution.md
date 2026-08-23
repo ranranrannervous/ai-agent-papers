@@ -141,7 +141,11 @@ Agents that **improve without changing model weights** — via experience, refle
 * [Aug 2026] **"CoEvo-Mem: Co-Evolving Retrieval Policy and Memory Bank for LLM Agents"** [[paper](https://arxiv.org/abs/2608.01739)]
 * [Aug 2026] **"Continuous Improvement and Parallel Autonomous Exploration: An LLM-Agent Framework for Searching Large Solution Spaces"** [[paper](https://arxiv.org/abs/2608.04341)]
 * [Aug 2026] **"Yesterday's Shield, Today's Spear: A Self-Evolving Safety Guardrail in Production"** [[paper](https://arxiv.org/abs/2608.08471)]
+* [Aug 2026] **"Rethinking Self-Evolving Agents: Do We Still Need Prescribed Optimization Pipelines?"** [[paper](https://arxiv.org/abs/2608.09629)]
 * [Aug 2026] **"Co-Evolution in Agentic Systems: Toward Self-Directed Evolution Beyond Human Design"** [[paper](https://arxiv.org/abs/2608.10299)]
+* [Aug 2026] **"SysEvolve: An AI-native, Safe, Autonomous Adversarial Attack-Defense Co-Evolutionary System"** [[paper](https://arxiv.org/abs/2608.15012)]
+* [Aug 2026] **"Agent Gym: A Framework for Continuous Evaluation and Evolution of LLM Agents Through Human-in-the-Loop Feedback"** [[paper](https://arxiv.org/abs/2608.15591)]
+* [Aug 2026] **"PILOT Technical Report"** [[paper](https://arxiv.org/abs/2608.18637)]
 * [2026] **"Self-Evolving Agent: A Closed-Loop Post-Training Flywheel for Continually Learning LLM Agents"** *(arXiv URL未記載 — 要追記)*
 
 ### Recursive Self-Improvement (RSI) & Gödel Machines
@@ -151,6 +155,8 @@ Agents that **improve without changing model weights** — via experience, refle
 * [Jul 2026] **"AREX: Towards a Recursively Self-Improving Agent for Deep Research"** [[paper](https://arxiv.org/abs/2607.21461)]
 * ⚖️ [Jul 2026] **"RSIBench-Data: Benchmarking Data-Centric Research for Recursive Self-Improvement"** [[paper](https://arxiv.org/abs/2607.25886)]
 * [Aug 2026] **"Mendel Gödel Machine: Recursive Self-Improving Coding Agents via Comparative Evolution"** [[paper](https://arxiv.org/abs/2608.07645)]
+* [Aug 2026] **"What is Missing from AI Post-Training AI: An Empirical Analysis"** [[paper](https://arxiv.org/abs/2608.19072)]
+* ⚖️ [Aug 2026] **"AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement"** [[paper](https://arxiv.org/abs/2608.20318)]
 * [2026] **"The Economics of Recursive Self-Improvement"** *(arXiv URL未記載 — 要追記)*
 
 
@@ -181,3 +187,4 @@ Agents that **improve without changing model weights** — via experience, refle
 * [Feb 2026] **"Evolutionary System Prompt Learning can Facilitate Reinforcement Learning for LLMs"** [[paper](https://arxiv.org/abs/2602.14697)]
 * [May 2026] **"GraphMind: From Operational Traces to Self-Evolving Workflow Automation"** [[paper](https://arxiv.org/abs/2605.17617v2)]
 * [Jun 2026] **"Loop Engineering: The Anthropic Playbook for Designing Systems That Prompt Your Agents"** [[paper](https://www.oreilly.com/radar/loop-engineering/)]
+* [Aug 2026] **"CAPO: Constraint-Aware Prompt Optimization for LLM Agents"** [[paper](https://arxiv.org/abs/2608.16068)]

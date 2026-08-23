@@ -113,6 +113,7 @@ How multiple agents are structured and coordinated: frameworks, orchestration, c
 * [Jul 2026] **"Systematic Literature Reviews With Two Multi-Agentic Systems And Human-In-The-Loop"** [[paper](https://arxiv.org/abs/2607.21920)]
 * [Jul 2026] **"Scaling LLM-Driven Multi-Agent Systems: Design Principles and Architectural Scalability Analysis"** [[paper](https://arxiv.org/abs/2607.27942)]
 * [Jul 2026] **"Agent Harness Distillation: Inference-Time Harness Extraction and Exploitation in Autonomous Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2607.28147)]
+* [Aug 2026] **"Position: Multi-Agent Systems Should Prioritize Concurrency Control"** [[paper](https://arxiv.org/abs/2608.18092)]
 
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
 * [Aug 2023] **"AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors"** [[paper](https://arxiv.org/abs/2308.10848)]
@@ -138,3 +139,4 @@ How multiple agents are structured and coordinated: frameworks, orchestration, c
 * [Nov 2025] **"Can LLM Agents Really Debate? A Controlled Study of Multi-Agent Debate in Logical Reasoning"** [[paper](https://arxiv.org/abs/2511.07784v1)]
 * [Feb 2026] **"Interaction Theater: A case of LLM Agents Interacting at Scale"** [[paper](https://arxiv.org/abs/2602.20059)]
 * 📖 [Jul 2026] **"Multi-Agent Debate Strategies: Survey, Taxonomy, and Challenges"** [[paper](https://arxiv.org/abs/2607.26212)]
+* [Aug 2026] **"When Agents Coordinate: Measuring Coordination in Multi-Agent AI Coding"** [[paper](https://arxiv.org/abs/2608.16801)]

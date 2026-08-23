@@ -66,6 +66,8 @@
 * [Jul 2026] **"Paying for Honesty Without Knowing the Truth: Reputation-Penalty Design for LLM Marketplace Agents"** [[paper](https://arxiv.org/abs/2607.28330)]
 * [Aug 2026] **"A2E: An End-to-End Agent Auditing Engine"** [[paper](https://arxiv.org/abs/2608.07346)]
 * [Aug 2026] **"SHE: Trajectory-driven Safety Harness Evolution for LLM Agents"** [[paper](https://arxiv.org/abs/2608.09885)]
+* 📖 [Aug 2026] **"Toward Safe LLM Agents: A Survey of Specification, Verification, and Enforcement"** [[paper](https://arxiv.org/abs/2608.14590)]
+* [Aug 2026] **"CTIFoundry: An Agent-Native Corpus Scaffold for Cyber Threat Intelligence"** [[paper](https://arxiv.org/abs/2608.18613)]
 
 
 ### Attacks & Red-Teaming
@@ -91,6 +93,7 @@
 * [Aug 2026] **"Benign Alone, Harmful Together: Exploiting Experience Composition in Self-Evolving LLM Agents"** [[paper](https://arxiv.org/abs/2608.01759)]
 * [Aug 2026] **"When Experience Becomes Instruction: Trajectory Poisoning in Self-Evolving Agent Skill Systems"** [[paper](https://arxiv.org/abs/2608.05563)]
 * [Aug 2026] **"Agent Skills Can Be Harmful: An Empirical Study of Skill-Induced Failures in LLM Agents"** [[paper](https://arxiv.org/abs/2608.11888)]
+* [Aug 2026] **"Practice Makes Unsafe: Skill Misevolution in Self-Improving LLM Agents"** [[paper](https://arxiv.org/abs/2608.12851)]
 
 ### Defenses & Guardrails
 * [May 2024] **"A Mechanism-Based Approach to Mitigating Harms from Persuasive Generative AI"** [[paper](https://arxiv.org/abs/2404.15058)]
@@ -103,3 +106,5 @@
 * [May 2026] **"SafeHarbor: Defining Precise Decision Boundaries via Hierarchical Memory-Augmented Guardrail for LLM Agent Safety"** [[paper](https://arxiv.org/abs/2605.05704)]
 * [May 2026] **"Trust No Tool: Evaluating and Defending LLM Agents under Untrusted Tool Feedback"** [[paper](https://arxiv.org/abs/2605.17453)]
 * [Aug 2026] **"Yesterday's Shield, Today's Spear: A Self-Evolving Safety Guardrail in Production"** [[paper](https://arxiv.org/abs/2608.08471)]
+* [Aug 2026] **"SysEvolve: An AI-native, Safe, Autonomous Adversarial Attack-Defense Co-Evolutionary System"** [[paper](https://arxiv.org/abs/2608.15012)]
+* [Aug 2026] **"PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-Compliant LLM Agents"** [[paper](https://arxiv.org/abs/2608.19861)]

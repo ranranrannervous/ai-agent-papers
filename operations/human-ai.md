@@ -29,3 +29,5 @@ How people work with agents: collaboration, delegation, alignment, trust, commun
 * [Mar 2026] **"Argumentative Human-AI Decision-Making: Toward AI Agents That Reason With Us, Not For Us"** [[paper](https://arxiv.org/abs/2603.15946)]
 * [Mar 2026] **"Human-Data Interaction, Exploration, and Visualization in the AI Era: Challenges and Opportunities"** [[paper](https://arxiv.org/abs/2603.05542)]
 * ⚖️ [May 2026] **"TUX: Measuring Human-AI Tacit Understanding"** [[paper](https://arxiv.org/abs/2605.30930)]
+* [Aug 2026] **"MUSE: An Interactive Meta-Agent for Understanding and Steering LLM-powered Data Science Systems"** [[paper](https://arxiv.org/abs/2608.16181)]
+* ⚖️ [Aug 2026] **"CentaurBench: Benchmarking LLM Capabilities on Augmenting vs. Automating Real-World Work Tasks"** [[paper](https://arxiv.org/abs/2608.18554)]

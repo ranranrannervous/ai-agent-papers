@@ -19,3 +19,5 @@ Papers on knowledge representation, ontology construction, and knowledge graph i
 
 * [Jul 2026] **"Knowledge-Centric Agents for Workflow Generation in ComfyUI"** [[paper](https://arxiv.org/abs/2607.15845)]
 * [Jul 2026] **"Knowledge-Centric Self-Improvement"** [[paper](https://arxiv.org/abs/2607.19592)]
+* [Aug 2026] **"CTIFoundry: An Agent-Native Corpus Scaffold for Cyber Threat Intelligence"** [[paper](https://arxiv.org/abs/2608.18613)]
+* [Aug 2026] **"PRAXIS: Graph-Grounded Tacit Knowledge for Domain Code Generation"** [[paper](https://arxiv.org/abs/2608.19784)]

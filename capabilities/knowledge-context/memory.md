@@ -103,6 +103,7 @@ How agents **store and reuse long-term information** across sessions — memory 
 * [Jul 2026] **"MemoHarness: Agent Harnesses That Learn from Experience"** [[paper](https://arxiv.org/abs/2607.14159)]
 * [Jul 2026] **"From Memory to Skills: Evidence-Grounded Co-Evolution Governance for Long-Horizon LLM Agents"** [[paper](https://arxiv.org/abs/2607.16621)]
 * [Jul 2026] **"MemHarness: Memory Is Reconstructed, Not Replayed"** [[paper](https://arxiv.org/abs/2607.28272)]
+* [Aug 2026] **"QUMem: Personalized Memory for Query-Conditioned User-State Inference in LLM Agents"** [[paper](https://arxiv.org/abs/2608.16168)]
 
 
 ### Retrieval & RAG
@@ -154,3 +155,4 @@ How agents **store and reuse long-term information** across sessions — memory 
 * 📖 [Feb 2026] **"Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey"** [[paper](https://arxiv.org/abs/2602.06052)]
 * ⚖️ [Jun 2026] **"DynamicMem: A Long-Horizon Memory Benchmark in Real-World Settings"**
 * 📖 [Jun 2026] **"Always-On Agents: A Survey of Persistent Memory, State, and Governance in LLM Agents"** [[paper](https://arxiv.org/abs/2606.30306)]
+* ⚖️ [Aug 2026] **"Harness the Memory: A Holistic Evaluation of Memory Substrates in Memory Agents"** [[paper](https://arxiv.org/abs/2608.15008)]

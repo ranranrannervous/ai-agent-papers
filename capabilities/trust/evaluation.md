@@ -101,6 +101,12 @@ How to **measure** agents: benchmarks and methodology for planning, tool use, an
 * ⚖️ [Aug 2026] **"Evaluating Investment Logic in Large Language Models: A Real-World Benchmark Towards Personalized Financial Agents"** [[paper](https://arxiv.org/abs/2608.06108)]
 * [Aug 2026] **"Tangent: An Empirical Study of Testing Practices for LLM-Based Agent Applications"** [[paper](https://arxiv.org/abs/2608.08413)]
 * ⚖️ [Aug 2026] **"Business Arena: Benchmarking LLM Agents in a Realistic Marketplace"** [[paper](https://arxiv.org/abs/2608.08621)]
+* [Aug 2026] **"Evaluating Agentic Learning Harness Capabilities Without Labels via the Scaling Hypothesis"** [[paper](https://arxiv.org/abs/2608.13608)]
+* ⚖️ [Aug 2026] **"StartupBench: Benchmarking General-Purpose Agents on Market-Validated End-to-End Workflows"** [[paper](https://arxiv.org/abs/2608.17800)]
+* ⚖️ [Aug 2026] **"FM-Bench: A Benchmark for Long-Horizon Management with Competing Agents"** [[paper](https://arxiv.org/abs/2608.18423)]
+* ⚖️ [Aug 2026] **"CentaurBench: Benchmarking LLM Capabilities on Augmenting vs. Automating Real-World Work Tasks"** [[paper](https://arxiv.org/abs/2608.18554)]
+* ⚖️ [Aug 2026] **"One Success Isn’t Reliability: Thinkingbox, a Sandbox and Benchmark for Agents in Stateful Business Workflows"** [[paper](https://arxiv.org/abs/2608.19741)]
+* ⚖️ [Aug 2026] **"AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement"** [[paper](https://arxiv.org/abs/2608.20318)]
 
 
 ### Evaluator, Verifier & Judge
@@ -109,3 +115,4 @@ How to **measure** agents: benchmarks and methodology for planning, tool use, an
 * ⚖️ [Jul 2025] **"CLEAR: Error Analysis via LLM-as-a-Judge Made Easy"** [[paper](https://arxiv.org/abs/2507.18392)]
 * [Sep 2025] **"JudgeAgent: Dynamically Evaluate LLMs with Agent-as-Interviewer"** [[paper](https://arxiv.org/abs/2509.02097)]
 * [Aug 2026] **"Jagged Judges: Epistemic Stability Under Silence, Pressure, and Persistence"** [[paper](https://arxiv.org/abs/2608.12645)]
+* [Aug 2026] **"HarnessEval-W: Agentifying the Evaluation of Visual Worlds"** [[paper](https://arxiv.org/abs/2608.16859)]

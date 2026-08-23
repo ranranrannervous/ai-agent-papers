@@ -109,4 +109,5 @@ How agents **think**: chain-of-thought, deliberation, and agentic reasoning stra
 * [Jul 2026] **"DeepLens Diagnosis Agent: Agentic Workflow Design Lets a Small Reasoning Model Compete with Frontier LLMs"** [[paper](https://arxiv.org/abs/2607.22555)]
 
 * [Jul 2026] **"Not All LLM Reasoning is Visible in the Chain-of-Thought"** [[paper](https://arxiv.org/abs/2607.22925)]
+* [Aug 2026] **"Second Thought: Reasoning in Parallel as LLM Agents Act and Observe"** [[paper](https://arxiv.org/abs/2608.13667)]
 * [Aug 2025] **"Self-Questioning Language Models"** [[paper](https://arxiv.org/abs//2508.03682)]

@@ -61,3 +61,4 @@ Agents that control desktop/OS applications via the graphical interface — mous
 * [Apr 2026] **"GPA: Learning GUI Process Automation from Demonstrations"** [[paper](https://arxiv.org/abs/2604.01676)]
 * [Apr 2026] **"The Art of Building Verifiers for Computer Use Agents"** [[paper](https://arxiv.org/abs/2604.06240)]
 * [Apr 2026] **"On the Reliability of Computer Use Agents"** [[paper](https://arxiv.org/abs/2604.17849)]
+* [Aug 2026] **"Inducing Task Models from Computer-Use Traces"** [[paper](https://arxiv.org/abs/2608.20319)]

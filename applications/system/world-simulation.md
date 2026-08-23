@@ -67,3 +67,5 @@ Generative-agent societies and social / economic / policy simulation.
 * [Aug 2026] **"From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models"** [[paper](https://arxiv.org/abs/2608.06020)]
 * [Aug 2026] **"When LLM Agents Negotiate: Private Information and Dynamic Bargaining in Supply Chains"** [[paper](https://arxiv.org/abs/2608.07538)]
 * ⚖️ [Aug 2026] **"Business Arena: Benchmarking LLM Agents in a Realistic Marketplace"** [[paper](https://arxiv.org/abs/2608.08621)]
+* [Aug 2026] **"Insurance as AI Risk Infrastructure: A Generative-Agent Simulation of AI Adoption"** [[paper](https://arxiv.org/abs/2608.15181)]
+* ⚖️ [Aug 2026] **"FM-Bench: A Benchmark for Long-Horizon Management with Competing Agents"** [[paper](https://arxiv.org/abs/2608.18423)]
