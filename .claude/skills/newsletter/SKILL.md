@@ -3,8 +3,9 @@ name: newsletter
 description: >-
   Write a monthly trend newsletter for this ai-agent-papers repo. Use when asked
   to create/update a monthly trend report, summarize a category's recent papers,
-  or "make a newsletter". Encodes the house procedure: pick the most active
-  categories, read each paper's arXiv HTML in full (background + discussion, not
+  or "make a newsletter". Encodes the house procedure: cover every coherent category with
+  enough papers that month (no fixed number of issues; overlap between issues is
+  fine when the angle differs), read each paper's arXiv HTML in full (background + discussion, not
   just method/numbers), embed real figures, and write a Japanese summary built on
   facts corroborated across multiple papers with numbers made legible to a
   first-time reader.
@@ -20,7 +21,7 @@ description: >-
 3. **図を入れる**：HTML から framework/overview 図を取り出し、実画像を保存して引用する。
 4. **複数論文で裏付けたファクトを重視**：単一研究に過剰適合しない。1本だけの結果は「**裏付けは弱め・要追試だがインパクト大**」として別建てで明示する。
 5. **数字は初見でも凄さが分かる表現に**：基準・倍率・意味を必ず添える。
-6. 各月 **3本** を目安に作る（下記の選定基準）。
+6. **対象月に 7本以上あるコヒーレントなテーマは、すべて号にする**。本数の上限は設けない（下記の選定基準）。
 7. **読みやすさを最優先**（下記「読みやすさの原則」）。
 
 ## 読みやすさの原則（最重要）
@@ -45,7 +46,10 @@ description: >-
   for f in $(find capabilities applications architecture operations -name '*.md'); do
     n=$(grep -cE '\[<Mon> <YYYY>\]' "$f"); [ "$n" -gt 0 ] && printf "%3d  %s\n" "$n" "$f"; done | sort -rn
   ```
-- **本数が多く（目安 ≥7本）かつコヒーレントな**カテゴリを 3つ選ぶ。分野混在の受け皿（例 `vertical-agents`）は避け、1テーマ1号にする。
+- **本数が ≥7本 かつコヒーレントな**カテゴリは**すべて**号にする。3本などの上限を設けない。分野混在の受け皿（例 `vertical-agents`）は避け、1テーマ1号にする。
+- **重複は落とす理由にならない**。同じ論文が複数の号に出てよい。カテゴリが違えば読者の関心も違うので、**角度を変えて書き、号どうしを相互リンクする**（例：ある論文をハーネス号では「実行足場の設計」として、評価号では「測定器の非中立性」として扱う）。落とす判断は「テーマとして立たない」ときだけ。
+- **前月と同じカテゴリでも、本数が基準を満たすなら継続して出す**。トレンドの継続は報告に値するファクトである。大きな変化がなければ「先月の方向がそのまま続き、同種の論文が N 本出た」と正直に書けばよい。**無理に新規性を演出しない**——差分がないことを差分として書く。
+- 本数を数えたら、**落としたカテゴリと落とした理由を一言メモしておく**（後から選定基準を説明できるようにする）。
 - 各カテゴリの対象論文（当月分）の arXiv ID を抽出：
   ```bash
   grep -E '\[<Mon> <YYYY>\]' <path.md> | grep -oE 'arxiv.org/abs/[0-9v.]+' | sed 's#arxiv.org/abs/##'
@@ -126,5 +130,7 @@ description: >-
 - [ ] 図 3〜4点、すべて実画像・出典リンク付き
 - [ ] 「今月明確化」は各項目 ≥2 論文で裏付け／単発結果は「要追試」と明示
 - [ ] 数字テーブルに「初見の読み方」列があり、基準・倍率・意味が分かる
-- [ ] 各月おおむね 3 号（高活動＋コヒーレントなカテゴリ）
+- [ ] **≥7本のコヒーレントなカテゴリをすべて号にした**（3本などで打ち切っていない）
+- [ ] 落としたカテゴリと理由を説明できる
+- [ ] 継続テーマは「続いている」と正直に書いた（新規性の演出をしていない）
 - [ ] **README の `# Trend Newsletters` 節に当月分リンクを追記した**（実在確認済み）
