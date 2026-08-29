@@ -26,3 +26,4 @@ Controlled, permissioned change of autonomous agents: governed self-improvement,
 * [Aug 2026] **"Agent Gym: A Framework for Continuous Evaluation and Evolution of LLM Agents Through Human-in-the-Loop Feedback"** [[paper](https://arxiv.org/abs/2608.15591)]
 * [Aug 2026] **"PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-Compliant LLM Agents"** [[paper](https://arxiv.org/abs/2608.19861)]
 * ⚖️ [Aug 2026] **"ReguSim: Evaluating LLM Agent Rule Grounding in Financial Compliance"** [[paper](https://arxiv.org/abs/2608.19974)]
+* [Aug 2026] **"AI Agents Push Humans Out of the Loop"** [[paper](https://arxiv.org/abs/2608.23642)]

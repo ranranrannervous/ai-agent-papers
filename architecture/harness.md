@@ -27,6 +27,7 @@ The agent harness — the runtime scaffold (loop, tool interfaces, context manag
 * [Aug 2026] **"Second Thought: Reasoning in Parallel as LLM Agents Act and Observe"** [[paper](https://arxiv.org/abs/2608.13667)]
 * [Aug 2026] **"Agent Lightning v1.0: Towards Harnessed Agentic RL"** [[paper](https://arxiv.org/abs/2608.17528)]
 * [Aug 2026] **"EnvHarness: Awakening Static Worlds for Agent Learning"** [[paper](https://arxiv.org/abs/2608.19880)]
+* [Aug 2026] **"Prime Agent: A Self-Improving RLM Harness"** [[paper](https://arxiv.org/abs/2608.23552)]
 
 
 ### Optimization & Evolution
@@ -53,6 +54,7 @@ The agent harness — the runtime scaffold (loop, tool interfaces, context manag
 * [Aug 2026] **"AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design"** [[paper](https://arxiv.org/abs/2608.13560)]
 * [Aug 2026] **"Evo-Harness: Context-to-Harness Skill Compilation for Self-Evolving Agents"** [[paper](https://arxiv.org/abs/2608.15071)]
 * [Aug 2026] **"Task-CoEvolve: Efficient Harness Optimization via Adaptive Validation Task Selection"** [[paper](https://arxiv.org/abs/2608.20169)]
+* [Aug 2026] **"JIT-Agent: Scaling Harness Intelligence via Just-in-Time Harness Evolution"** [[paper](https://arxiv.org/abs/2608.25593)]
 
 ### Benchmarks & Auditing
 * ⚖️ [May 2026] **"Auditing Agent Harness Safety"** [[paper](https://arxiv.org/abs/2605.14271)]
@@ -61,6 +63,7 @@ The agent harness — the runtime scaffold (loop, tool interfaces, context manag
 * ⚖️ [Jul 2026] **"DataClawEval: A Benchmark for Data Engineering Agents in Real Industrial Harness"** [[paper](https://arxiv.org/abs/2607.28033)]
 * ⚖️ [Aug 2026] **"EVO-BENCH: Can Language Models Improve Agent Harness?"** [[paper](https://arxiv.org/abs/2608.09096)]
 * [Aug 2026] **"Evaluating Agentic Learning Harness Capabilities Without Labels via the Scaling Hypothesis"** [[paper](https://arxiv.org/abs/2608.13608)]
+* 🔥 [Aug 2026] **"There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items"** [[paper](https://arxiv.org/abs/2608.21382)]
 
 
 ### Test-Time / Runtime Adaptation
@@ -75,6 +78,8 @@ The agent harness — the runtime scaffold (loop, tool interfaces, context manag
 * [Aug 2026] **"LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks"** [[paper](https://arxiv.org/abs/2608.01964)]
 * [Aug 2026] **"OneDayAgent: Towards a Long-Horizon Harness for Autonomous Agents"** [[paper](https://arxiv.org/abs/2608.05013)]
 * [Aug 2026] **"ScienceFlow: A Long-horizon Agent for ML Research, Scientific Discovery and Beyond"** [[paper](https://arxiv.org/abs/2608.14354)]
+* [Aug 2026] **"Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses"** [[paper](https://arxiv.org/abs/2608.24876)]
 
 ### Model-Agnostic / Cross-Model
 * [May 2026] **"Polar: Agentic RL on Any Harness at Scale"** [[paper](https://arxiv.org/abs/2605.24220)]
+* [Aug 2026] **"The Handoff Tax: Continuing Non-Native Trajectories in LLM Agents"** [[paper](https://arxiv.org/abs/2608.24358)]

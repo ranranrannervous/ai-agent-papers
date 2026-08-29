@@ -69,6 +69,8 @@ Agent Skills — reusable, composable procedural capabilities (e.g. SKILL.md), s
 * [Jul 2026] **"Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills"** [[paper](https://arxiv.org/abs/2607.22529)]
 * [Aug 2026] **"Practice Makes Unsafe: Skill Misevolution in Self-Improving LLM Agents"** [[paper](https://arxiv.org/abs/2608.12851)]
 * [Aug 2026] **"Evo-Harness: Context-to-Harness Skill Compilation for Self-Evolving Agents"** [[paper](https://arxiv.org/abs/2608.15071)]
+* [Aug 2026] **"EVOMAL: Self-Poisoning in Self-Evolving Coding Agents"** [[paper](https://arxiv.org/abs/2608.25776)]
+* [Aug 2026] **"RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution"** [[paper](https://arxiv.org/abs/2608.27439)]
 
 ### Benchmarks & Analysis
 * [Feb 2026] **"Agent Skills: A Data-Driven Analysis of Claude Skills for Extending Large Language Model Functionality"** [[paper](https://arxiv.org/abs/2602.08004)]

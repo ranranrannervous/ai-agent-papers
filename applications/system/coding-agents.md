@@ -62,10 +62,12 @@
 * [Jun 2026] **"Tmax: A simple recipe for terminal agents"** [[paper](https://arxiv.org/abs/2606.23321)]
 * [Jun 2026] **"The Shift to Agentic AI: Evidence from Codex"** [[paper](https://arxiv.org/abs/2606.26959)]
 * [Jul 2026] **"Beyond Generalist LLMs: Specialist Agentic Systems for Structured Code Workflow Execution"** [[paper](https://arxiv.org/abs/2607.14456)]
+* [Jul 2026] **"Reinforcement Learning for Code Optimization"** [[paper](https://arxiv.org/abs/2607.25970)]
 
 * [Aug 2026] **"Mendel Gödel Machine: Recursive Self-Improving Coding Agents via Comparative Evolution"** [[paper](https://arxiv.org/abs/2608.07645)]
 * [Aug 2026] **"When Agents Coordinate: Measuring Coordination in Multi-Agent AI Coding"** [[paper](https://arxiv.org/abs/2608.16801)]
 * [Aug 2026] **"PRAXIS: Graph-Grounded Tacit Knowledge for Domain Code Generation"** [[paper](https://arxiv.org/abs/2608.19784)]
+* [Aug 2026] **"The Handoff Tax: Continuing Non-Native Trajectories in LLM Agents"** [[paper](https://arxiv.org/abs/2608.24358)]
 * 📖 [Aug 2025] **"A Survey on Code Generation with LLM-based Agents"** [[paper](https://arxiv.org/html/2508.00083v1)]
 
 
@@ -122,3 +124,4 @@
 * [Nov 2025] **"Agent READMEs: An Empirical Study of Context Files for Agentic Coding"** [[paper](https://arxiv.org/abs/2511.12884v1)]
 * [Jan 2026] **"Are We All Using Agents the Same Way? An Empirical Study of Core and Peripheral Developers’ Use of Coding Agents"** [[paper](https://arxiv.org/abs/2601.20106)]
 * [May 2026] **"To What Extent Does Agent-generated Code Require Maintenance? An Empirical Study"** [[paper](https://arxiv.org/abs/2605.06464)]
+* [Aug 2026] **"From Agent Behaviour to Agent-Friendly Documentation: An Empirical Study of How Coding Agents Discover, Read, and Write Technical Documentation"** [[paper](https://arxiv.org/abs/2608.20195)]

@@ -123,3 +123,4 @@
 * [Aug 2026] **"EDATracer: An Agentic Framework for Large-Scale EDA Artifact Analysis"** [[paper](https://arxiv.org/abs/2608.04032)]
 * ⚖️ [Aug 2026] **"Walk Before You Run: The Importance of Data Exploration for Data Analysis Agents"** [[paper](https://arxiv.org/abs/2608.16045)]
 * [Aug 2026] **"MUSE: An Interactive Meta-Agent for Understanding and Steering LLM-powered Data Science Systems"** [[paper](https://arxiv.org/abs/2608.16181)]
+* 📖 [Aug 2026] **"LLM Agents for Time-Series: A Survey"** [[paper](https://arxiv.org/abs/2608.26226)]

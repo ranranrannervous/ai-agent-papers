@@ -107,6 +107,8 @@ How to **measure** agents: benchmarks and methodology for planning, tool use, an
 * ⚖️ [Aug 2026] **"CentaurBench: Benchmarking LLM Capabilities on Augmenting vs. Automating Real-World Work Tasks"** [[paper](https://arxiv.org/abs/2608.18554)]
 * ⚖️ [Aug 2026] **"One Success Isn’t Reliability: Thinkingbox, a Sandbox and Benchmark for Agents in Stateful Business Workflows"** [[paper](https://arxiv.org/abs/2608.19741)]
 * ⚖️ [Aug 2026] **"AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement"** [[paper](https://arxiv.org/abs/2608.20318)]
+* 🔥 [Aug 2026] **"There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items"** [[paper](https://arxiv.org/abs/2608.21382)]
+* ⚖️ [Aug 2026] **"DuMateBench: Evaluating Autonomous Agents in Complex Real-World Workflows"** [[paper](https://arxiv.org/abs/2608.26546)]
 
 
 ### Evaluator, Verifier & Judge

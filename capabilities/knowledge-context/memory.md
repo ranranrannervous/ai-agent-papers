@@ -146,6 +146,7 @@ How agents **store and reuse long-term information** across sessions — memory 
 * [May 2026] **"Rethinking Memory as Continuously Evolving Connectivity"** [[paper](https://arxiv.org/abs/2605.28773)]
 * ⚖️ [Jun 2026] **"Managing Procedural Memory in LLM Agents: Control, Adaptation, and Evaluation"** [[paper](https://arxiv.org/abs/2606.23127)]
 * [Aug 2026] **"Tree-of-Experience: Hierarchical Experience Management for Self-Evolving Agents"** [[paper](https://arxiv.org/abs/2608.09044)]
+* [Aug 2026] **"Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses"** [[paper](https://arxiv.org/abs/2608.24876)]
 
 ### Benchmarks & Surveys
 * 📖 [Apr 2024] **"A Survey on the Memory Mechanism of Large Language Model based Agents"** [[paper](https://arxiv.org/abs/2404.13501)]

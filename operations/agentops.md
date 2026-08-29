@@ -54,3 +54,4 @@ Operating agents in production: observability, deployment, evaluation-driven des
 * [Aug 2026] **"Agent-Native Telemetry: Verifiable State-Delta Evidence for Autonomous Operations"** [[paper](https://arxiv.org/abs/2608.16178)]
 * [Aug 2026] **"Towards Risk-free AI Agent Deployment"** [[paper](https://arxiv.org/abs/2608.16411)]
 * [Aug 2026] **"LEDGER: Claim-to-Evidence Trace Graphs for Auditing LLM Agents"** [[paper](https://arxiv.org/abs/2608.18398)]
+* [Aug 2026] **"Automata from Agent Traces: Failure and Next-Step Prediction"** [[paper](https://arxiv.org/abs/2608.23670)]

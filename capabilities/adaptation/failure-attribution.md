@@ -15,3 +15,4 @@ Diagnosing *what / where / why* an agent failed: failure attribution, critical e
 * [Aug 2026] **"Towards Risk-free AI Agent Deployment"** [[paper](https://arxiv.org/abs/2608.16411)]
 * [Aug 2026] **"LEDGER: Claim-to-Evidence Trace Graphs for Auditing LLM Agents"** [[paper](https://arxiv.org/abs/2608.18398)]
 * [Aug 2026] **"Credit Without Ground Truth: Auditing Step-Level Credit Assignment in LLM Agents Against Executed Replay"** [[paper](https://arxiv.org/abs/2608.19760)]
+* [Aug 2026] **"Automata from Agent Traces: Failure and Next-Step Prediction"** [[paper](https://arxiv.org/abs/2608.23670)]

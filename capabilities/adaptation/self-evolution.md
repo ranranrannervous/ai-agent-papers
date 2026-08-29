@@ -157,6 +157,7 @@ Agents that **improve without changing model weights** — via experience, refle
 * [Aug 2026] **"Mendel Gödel Machine: Recursive Self-Improving Coding Agents via Comparative Evolution"** [[paper](https://arxiv.org/abs/2608.07645)]
 * [Aug 2026] **"What is Missing from AI Post-Training AI: An Empirical Analysis"** [[paper](https://arxiv.org/abs/2608.19072)]
 * ⚖️ [Aug 2026] **"AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement"** [[paper](https://arxiv.org/abs/2608.20318)]
+* [Aug 2026] **"Meta^n: Recursive Self-Improvement through Emergent Depth"** [[paper](https://arxiv.org/abs/2608.24735)]
 * [2026] **"The Economics of Recursive Self-Improvement"** *(arXiv URL未記載 — 要追記)*
 
 

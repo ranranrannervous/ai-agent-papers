@@ -31,3 +31,5 @@ How people work with agents: collaboration, delegation, alignment, trust, commun
 * ⚖️ [May 2026] **"TUX: Measuring Human-AI Tacit Understanding"** [[paper](https://arxiv.org/abs/2605.30930)]
 * [Aug 2026] **"MUSE: An Interactive Meta-Agent for Understanding and Steering LLM-powered Data Science Systems"** [[paper](https://arxiv.org/abs/2608.16181)]
 * ⚖️ [Aug 2026] **"CentaurBench: Benchmarking LLM Capabilities on Augmenting vs. Automating Real-World Work Tasks"** [[paper](https://arxiv.org/abs/2608.18554)]
+* [Aug 2026] **"Human–AI Collaboration at Scale: Task Criticality, Agency, and Friction Across 250,000 Conversations"** [[paper](https://www.alphaxiv.org/abs/2608.human-ai-collaboration-at-scale)] *(arXiv ID未採番)*
+* [Aug 2026] **"AI Agents Push Humans Out of the Loop"** [[paper](https://arxiv.org/abs/2608.23642)]
