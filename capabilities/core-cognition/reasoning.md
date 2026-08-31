@@ -10,7 +10,7 @@ How agents **think**: chain-of-thought, deliberation, and agentic reasoning stra
 #### Papers
 * [Jan 2022] **"Chain-of-Thought Prompting Elicits Reasoning in Large Language Models"** [[paper](https://arxiv.org/abs/2201.11903)] [[PDF](./2201.11903v6-chain-of-thought-prompting.pdf)]
 * [Mar 2022] **"Self-consistency improves chain of thought reasoning in language models"** [[paper](https://arxiv.org/abs/2203.11171)] [[PDF](./2203.11171v4-self-consistency-chain-of-thought.pdf)]
-* [May 2022] **"Least-to-most prompting enables complex reasoning in large language models"** [[paper](https://arxiv.org/abs/2205.10625)]
+* [May 2022] **"Least-to-most prompting enables complex reasoning in large language models"** [[paper](https://arxiv.org/abs/2205.10625)] [[PDF](./2205.10625v3-least-to-most-prompting.pdf)]
 * [Oct 2022] **"ReAct: Synergizing Reasoning and Acting in Language Models"** [[paper](https://arxiv.org/abs/2210.03629)]
 * [May 2023] **"Tree of thoughts: Deliberate problem solving with large language models"** [[paper](https://arxiv.org/abs/2305.10601)]
 * [Apr 2024] **"Graph of Thoughts: Solving Elaborate Problems with Large Language Models"** [[paper](https://arxiv.org/abs/2308.09687)]
