@@ -12,7 +12,7 @@ How agents **think**: chain-of-thought, deliberation, and agentic reasoning stra
 * [Mar 2022] **"Self-consistency improves chain of thought reasoning in language models"** [[paper](https://arxiv.org/abs/2203.11171)] [[PDF](./2203.11171v4-self-consistency-chain-of-thought.pdf)]
 * [May 2022] **"Least-to-most prompting enables complex reasoning in large language models"** [[paper](https://arxiv.org/abs/2205.10625)] [[PDF](./2205.10625v3-least-to-most-prompting.pdf)]
 * [Oct 2022] **"ReAct: Synergizing Reasoning and Acting in Language Models"** [[paper](https://arxiv.org/abs/2210.03629)] [[PDF](./2210.03629v3-react.pdf)]
-* [May 2023] **"Tree of thoughts: Deliberate problem solving with large language models"** [[paper](https://arxiv.org/abs/2305.10601)]
+* [May 2023] **"Tree of thoughts: Deliberate problem solving with large language models"** [[paper](https://arxiv.org/abs/2305.10601)] [[PDF](./2305.10601v2-tree-of-thoughts.pdf)]
 * [Apr 2024] **"Graph of Thoughts: Solving Elaborate Problems with Large Language Models"** [[paper](https://arxiv.org/abs/2308.09687)]
 * [Aug 2023] **"ExpeL: LLM Agents Are Experiential Learners"** [[paper](https://arxiv.org/abs/2308.10144)]
 * [Oct 2023] **"Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models"** [[paper](https://arxiv.org/abs/2310.04406)]
